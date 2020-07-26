@@ -1,0 +1,18 @@
+{
+  "name": "MEDE",
+  "version": "1.0.0",
+  "description": "Minecraft Entity Data Extractor for Minecraft Console Client",
+  "main": "index.js",
+  "scripts": {
+    "medef": "node index.js"
+  },
+  "keywords": [],
+  "author": "Dusan Milutinovic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "url-exists": "^1.0.3",
+    "yargs": "^15.4.1"
+  }
+}
